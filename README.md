@@ -1,7 +1,6 @@
-# 💫 About Me:
 # About Me 👋
 
-Hi there! I'm **Reethika Bollaboyana** - a passionate **Business Analyst** currently working at **United Airlines** 🛫, on an exciting journey to become an **AI Engineer**!
+Hi there! I'm **Reethika Bollaboyana** - a passionate **Business Analyst** currently working at **United Airlines** 🛫, exploring the exciting world of **AI and Machine Learning**!
 
 ## 🚀 My Background
 - 📊 **Current Role**: Business Analyst at United Airlines (Chicago, IL)
@@ -9,64 +8,46 @@ Hi there! I'm **Reethika Bollaboyana** - a passionate **Business Analyst** curre
 - 💼 **Experience**: Business Consulting, Data Analysis, and Software Engineering
 - 🌏 **From**: India 🇮🇳 **Currently in**: United States 🇺🇸
 
-## 🎯 My Mission
-I'm on a **3-month intensive journey** to transition from Business Analyst to AI Engineer, focusing on:
+## 🎯 My Focus
+I'm passionate about applying **technology to solve real-world problems**, particularly in:
 - 🤖 **Artificial Intelligence & Machine Learning**
 - ✈️ **AI applications in the Airline Industry**
-- 🔥 **Trending Technologies**: GenAI, Agentic AI, and more!
-- 📈 **Real-world problem solving** with AI solutions
+- 📈 **Data-driven decision making**
+- 💡 **Innovative problem solving**
 
 ## 🛠️ Tech Stack & Skills
 
-### Currently Mastering:
+### Technical Skills:
 - 🐍 **Python** (pandas, numpy, matplotlib, seaborn)
 - 📊 **Data Analysis & Visualization** 
-- 🤖 **Machine Learning** (Linear Regression and beyond!)
-- ✈️ **Domain Expertise**: Airline Operations & Business Analysis
+- 🤖 **Machine Learning** 
+- 🗄️ **SQL & Databases**
 
 ### Professional Tools:
 - 📊 **Tableau & Power BI**
-- 🗄️ **SQL & Databases**
 - 📈 **Statistical Analysis**
 - 💼 **Business Intelligence**
 - 🏢 **Microsoft Office Suite**
 
 ## 🌟 What Makes Me Special
-- ✈️ **Airline Industry Insider**: I understand real airline challenges and can build AI solutions that actually work!
+- ✈️ **Airline Industry Experience**: I understand real airline challenges and business operations
 - 📊 **Business + Tech**: Perfect blend of business acumen and technical skills
-- 🎯 **Problem Solver**: I love turning complex airline problems into simple AI solutions
-- 📚 **Quick Learner**: From zero to AI engineer in 3 months!
+- 🎯 **Problem Solver**: I love turning complex business problems into data-driven solutions
+- 📚 **Continuous Learner**: Always exploring new technologies and methodologies
 
-## 🚀 Current Learning Journey
-**Week 1-2 ✅ COMPLETED:**
-- ✅ Python fundamentals
-- ✅ Pandas for data manipulation
-- ✅ NumPy for numerical computing
-- ✅ Data visualization (matplotlib, seaborn)
-- ✅ Linear regression
-
-**Coming Next:**
-- 🔄 Multiple regression & advanced ML algorithms
-- 🤖 Natural Language Processing for customer feedback
-- 🧠 Deep Learning and Neural Networks
-- 🎯 GenAI and Agentic AI applications
-- ✈️ Real airline industry AI projects
-
-## 🎯 My Goal
-Transform from Business Analyst to **AI Engineer** who specializes in solving **real airline industry problems** using cutting-edge AI technology!
+## 🚀 Current Focus
+Working on projects that combine my **airline industry knowledge** with **AI and ML technologies** to create practical solutions for real business challenges.
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn**: [Reethika Bollaboyana](https://www.linkedin.com/in/reethika-bollaboyana)
-- 📧 **Looking for**: AI Engineering opportunities in the airline/travel industry
-- 🌟 **Open to**: Collaborations on airline AI projects
+- 🌟 **Open to**: Collaborations on data science and AI projects
+- 💡 **Interested in**: Business applications of AI and ML
 
 ---
 
-*"From analyzing airline data to building AI solutions - every flight teaches me something new about the power of data and AI!"* ✈️🤖
+*"Bridging the gap between business needs and technological solutions, one project at a time!"* 📊🤖
 
-**#OpenToWork** #AIEngineer #MachineLearning #AirlineIndustry #DataScience #Python #GenAI
-
-
+**#OpenToWork** #BusinessAnalyst #MachineLearning #AirlineIndustry #DataScience #Python
 
 
 ## 🌐 Socials:
